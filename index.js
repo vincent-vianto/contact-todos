@@ -19,8 +19,8 @@ axios.get("http://localhost:3001/contact")
         <br>
         Company : ${company}
         <br>
-        <button onclick="edit(${id})"> <i class="fas fa-pencil-alt"></i> Edit</button>
-        <button onclick="erase(${id})"> <i class="fas fa-trash-alt"></i> Erase</button>
+        <button class="btn btn-light" onclick="edit(${id})"> <i class="fas fa-pencil-alt"></i> Edit</button>
+        <button class="btn btn-danger" onclick="erase(${id})"> <i class="fas fa-trash-alt"></i> Erase</button>
         </div>
         <br>`
         listHTML.innerHTML += itemHTML
