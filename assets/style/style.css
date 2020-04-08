@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/sunset-4837406_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-contact{
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 40px ;
+    margin-bottom: 30px;
+}
+.box label{
+    font-size: 30px;
+}
+
+.box input{
+    font-size: 24px;
+    width: 80%;
+}
+
+button{
+    padding: 10px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.mar-contact{
+    margin-top: 30px;
+}

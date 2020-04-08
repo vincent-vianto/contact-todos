@@ -1,0 +1,20 @@
+{
+  "contact": [
+    {
+      "name": "Alwen",
+      "address": "Medan",
+      "phone": "081234567890",
+      "email": "alwen@yahoo.com",
+      "company": "Google",
+      "id": 2
+    },
+    {
+      "id": 2,
+      "name": "Vincent",
+      "address": "Batam",
+      "phone": "08117713486",
+      "email": "vincentvianto@gmail.com",
+      "company": "-"
+    }
+  ]
+}
