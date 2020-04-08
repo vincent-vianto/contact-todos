@@ -15,6 +15,22 @@
       "phone": "08117713486",
       "email": "vincentvianto@gmail.com",
       "company": "-"
+    },
+    {
+      "name": "Mawar",
+      "address": "Jakarta",
+      "phone": "081177112233",
+      "email": "mawarbunga@gmail.com",
+      "company": "Apple",
+      "id": 3
+    },
+    {
+      "name": "Alpha",
+      "address": "Batam",
+      "phone": "081233456789",
+      "email": "alpha@gmail.com",
+      "company": "-",
+      "id": 4
     }
   ]
 }
