@@ -31,6 +31,30 @@
       "email": "alpha@gmail.com",
       "company": "-",
       "id": 4
+    },
+    {
+      "name": "Betty",
+      "address": "Padang",
+      "phone": "089687543210",
+      "email": "betty_12@yahoo.com",
+      "company": "Bank Mandiri",
+      "id": 5
+    },
+    {
+      "name": "Gamma Cuviro",
+      "address": "Depok",
+      "phone": "082534187690",
+      "email": "gamma_cuviro@gmail.com",
+      "company": "Bank BNI",
+      "id": 6
+    },
+    {
+      "name": "sapodkasd",
+      "address": "fewass",
+      "phone": "233232",
+      "email": "vincent_vianto@yahoo.com",
+      "company": "fsdfdsfs",
+      "id": 7
     }
   ]
 }
